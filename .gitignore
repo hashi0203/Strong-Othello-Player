@@ -1,0 +1,10 @@
+._*
+*.cmo
+*.cmx
+*.cmi
+*.o
+reversi-me
+
+commandLexer.ml
+commandParser.ml
+commandParser.mli
